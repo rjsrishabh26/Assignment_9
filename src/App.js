@@ -32,7 +32,7 @@ export default function App() {
         {datalist[genre].map(function (music) {
           return (
             <div key={music.name} className="Lstitem">
-              <img className="Musicimg" src={music.img} alt="Music" />
+              <img className="img" src={music.img} alt="unsplash" />
               <div className="MusicName"> {music.name}</div>
               <div className="MusicArtist"> By: {music.artist}</div>
               <div className="Rating">

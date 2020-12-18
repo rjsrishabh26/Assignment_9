@@ -28,7 +28,7 @@ export const datalist = {
       name: "Slow Dancing in the Dark",
       artist: "Joji",
       rating: "4.4",
-      img: "./images/slowdancinginthedark.png",
+      img: "images/slowdancinginthedark.png",
       link:
         "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d?si=Msx5oTgpR66HerISuR5iQQ"
     },
@@ -36,7 +36,7 @@ export const datalist = {
       name: "Do I Wanna Know?",
       artist: "Artic Monkeys",
       rating: "4.5",
-      img: "./images/doiwannaknow",
+      img: "./images/doiwannaknow.png",
       link:
         "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst?si=_JqId5qjTnqqdX1Cbn2Fsg"
     },
@@ -44,7 +44,7 @@ export const datalist = {
       name: "Bleed it Out",
       artist: "Linkin Park",
       rating: "4.0",
-      img: "./images/bleeditout",
+      img: "./images/bleeditout.png",
       link:
         "https://open.spotify.com/track/78gsvivelCP8Kh0tSRTy8D?si=SZgGJGGgTECuaGh0LwZiNw"
     },
@@ -60,7 +60,7 @@ export const datalist = {
       name: "Hail To The King",
       artist: "Avenged SevenFold",
       rating: "4.7",
-      img: "hailtotheking.png",
+      img: "./images/hailtotheking.png",
       link:
         "https://open.spotify.com/track/5anCkDvJ17aznvK5TED5uo?si=zFmjxDDzQEaIxsz5W5yYRQ"
     },
@@ -68,7 +68,7 @@ export const datalist = {
       name: "Sorry",
       artist: "Fallen Roses",
       rating: "4.3",
-      img: "sorry.png",
+      img: "./images/sorry.png",
       link:
         "https://open.spotify.com/track/4Jgrb2AFXvmTnq2TcqTIQS?si=UjMXo5_RSGaDw5qeCGiE9g"
     },
@@ -76,7 +76,7 @@ export const datalist = {
       name: "Feel Invincible",
       artist: "Skillet",
       rating: "4.3",
-      img: "feelinvincible.png",
+      img: "./images/feelinvincible.png",
       link:
         "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L?si=tSlm5LA1SDWcYyZEpAJimQ"
     }

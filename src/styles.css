@@ -68,3 +68,7 @@ p {
 .link:hover {
   color: white;
 }
+.img {
+  width: 20%;
+  height: 20%;
+}
